@@ -33,8 +33,8 @@ transit-safety-analytics/
 
 1. Clone the repository:
    ```bash
-   gh repo clone Sarthak2403/Transit-Safety-Data-Analysis
-   cd Transit-Safety-Data-Analysis
+   gh repo clone Sarthak2403/Transit_Infrastructure_Safety_Event_Tracker
+   cd Transit_Infrastructure_Safety_Event_Tracker
 
 2. Create a virtual environment:
    ```bash
@@ -123,6 +123,9 @@ python app.py
 ```
 
 - Dashboard App:
+
 ![Alt text](Outputs/Select_mode.png)
+
 ![Alt text](Outputs/Dasboard_1.png)
+
 ![Alt text](Outputs/Dasboard_2.png)
